@@ -1,0 +1,13 @@
+nav {
+  position: fixed;
+  width: 100%;
+  ul {
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+  }
+  li {
+    padding: 10px
+  }
+  
+}

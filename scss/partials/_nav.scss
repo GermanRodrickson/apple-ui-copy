@@ -1,0 +1,15 @@
+nav {
+  font-size: 14px;
+  font-family: $font-apple;
+  background-color: $black;
+  color: $white;
+  li {
+    list-style-type: none
+  }
+  a {
+    text-decoration: none;
+  }
+  a:hover {
+    color: $light-white;
+  }
+}
