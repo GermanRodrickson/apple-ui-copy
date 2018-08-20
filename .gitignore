@@ -27,10 +27,10 @@ Thumbs.db
 
 # Folder config file
 Desktop.ini
-prepros-6.config
 
 # Mac crap
 .DS_Store
 
 #Misc
 *.log
+prepros-6.config
