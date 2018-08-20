@@ -1,0 +1,30 @@
+.ipad {
+  background-color: $background-color-iphone;
+
+  h1 {
+    padding-top: 100px;
+    font-size: $h1-size;
+  }
+  h3 {
+    margin-top: 10px;
+    font-size: $h3-size;
+    font-weight: inherit;
+  }
+  a{
+    display: inline-block;
+    margin-top: 10px;
+    color: $link-color;
+    padding: 10px;
+    margin-bottom: 50px
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  img {
+    display: block;
+    margin: 0 auto;
+    padding-bottom: 150px;
+    width: 1060px;
+    height: 223;
+  }
+}

@@ -1,15 +1,21 @@
 nav {
   font-size: 14px;
-  font-family: $font-apple;
   background-color: $black;
   color: $white;
   li {
-    list-style-type: none
+    list-style-type: none;
+    padding: 10px
   }
   a {
     text-decoration: none;
   }
   a:hover {
     color: $light-white;
+  }
+  .rigth-item {
+    margin-right: 100px;
+  }
+  .left-item {
+    margin-left: 100px;
   }
 }
